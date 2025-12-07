@@ -1,4 +1,4 @@
-# Nova Ai Model
+# Kova Ai Model
 
 A custom AI chat model and API built from scratch.
 
