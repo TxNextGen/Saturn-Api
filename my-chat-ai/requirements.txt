@@ -4,3 +4,6 @@ fastapi
 uvicorn
 datasets
 accelerate
+discord.py
+requests
+python-dotenv
